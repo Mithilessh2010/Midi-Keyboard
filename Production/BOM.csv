@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW4,SW14,SW6,SW11,SW9,SW28,SW15,SW12,SW18,SW3,SW1,SW2,SW13,SW16,SW27,SW8,SW39,SW7,SW17";"SW_Cherry_MX_1.00u_PCB";19;"SW_Push_45deg";;;
+2;"D7,D11,D6,D27,D2,D13,D1,D15,D20,D19,D17,D4,D16,D18,D5,D9,D3,D28,D14,D12,D8,D10";"D_DO-35_SOD27_P7.62mm_Horizontal";22;"1N4148";;;
+3;"J1";"PinSocket_1x08_P2.54mm_Vertical";1;"S37735R";;;
+4;"SW10,SW5";"SW_Cherry_MX_1.00u_PCB";2;"SW5";;;
+5;"U1";"Adafruit_ADS1115";1;"ADS1015";;;
+6;"SW25,SW26";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MountingHoles";2;"RotaryEncoder_Switch_MP";;;
+7;"RV1";"Slide_Pot_75mm_Adafruit4219_fixed";1;"Adafruit Slide Pot: 4219";;;
+8;"J2";"PinSocket_1x04_P2.54mm_Vertical";1;"SD Card";;;
+9;"A1";"RaspberryPi_Pico_Common_Unspecified";1;"Orpheus Pico";;;
+10;"U2";"PCM5100 I2S DAC";1;"PCM5100";;;
