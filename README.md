@@ -17,25 +17,25 @@ This project uses a Raspberry Pi Pico along with several input and output compon
 
 
 ## Bill of Materials (BOM)
+| Component                   | Quantity | Price ($)  | Source                                                                                                                                                                                                                                                                        |
+| --------------------------- | -------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cherry MX Blue Switch       | 1        | 2.00       | [AliExpress](https://www.aliexpress.com/item/1005006255961111.html?spm=a2g0o.cart.0.0.14a938daZ9cXHR&mp=1&pdp_npi=5%40dis%21CAD%21CAD%209.25%21CAD%201.63%21%21CAD%201.63%21%21%21%402103277f17603785192817446e4b13%2112000036489552472%21ct%21CA%216607241988%21%211%210)    |
+| Cherry MX Red Switch        | 20       | 13.00      | [AliExpress](https://www.aliexpress.com/item/1005006255961111.html?spm=a2g0o.cart.0.0.14a938daZ9cXHR&mp=1&pdp_npi=5%40dis%21CAD%21CAD%2013.73%21CAD%2012.78%21%21CAD%2012.78%21%21%21%402103277f17603785192817446e4b13%2112000036489552484%21ct%21CA%216607241988%21%211%210) |
+| S37735R Screen              | 1        | N/A        | Included in kit                                                                                                                                                                                                                                                               |
+| 1N4148 Diode                | 22       | N/A        | Included in kit                                                                                                                                                                                                                                                               |
+| Orpheus Pico                | 1        | N/A        | Included in kit                                                                                                                                                                                                                                                               |
+| PCM5100 DAC                 | 1        | N/A        | Included in kit                                                                                                                                                                                                                                                               |
+| EC11 Rotary Encoder         | 2        | N/A        | Included in kit                                                                                                                                                                                                                                                               |
+| M3 18 mm Screw              | 4        | 1.06       | [BambuLab](https://us.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?id=42338644951176)                                                                                                                                                                   |
+| M3 4 mm Screw               | 4        | 1.06       | [BambuLab](https://us.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?id=42338644721800)                                                                                                                                                                   |
+| M2 5 mm Screw               | 2        | 1.02       | [BambuLab](https://us.store.bambulab.com/products/m2-button-head-cap-machine-screws-bhcs?id=42328200577160)                                                                                                                                                                   |
+| Slide Potentiometer         | 1        | Included   | [Adafruit](https://www.adafruit.com/product/4219)                                                                                                                                                                                                                             |
+| ADS ADC Module              | 1        | Included   | [Adafruit](https://www.adafruit.com/product/1083)                                                                                                                                                                                                                             |
+| **Adafruit Parts Total**    | —        | **34.30**  | [Adafruit](https://www.adafruit.com/)                                                                                                                                                                                                                                         |
+| **JLCPCB (PCB + Assembly)** | —        | **52.46**  | [JLCPCB](https://jlcpcb.com/)                                                                                                                                                                                                                                                 |
+| **BambuLab Shipping**       | —        | **6.00**   | [BambuLab](https://us.store.bambulab.com/)                                                                                                                                                                                                                                    |
+| **TOTAL COST (All Parts)**  | —        | **110.90** | —                                                                                                                                                                                                                                                                             |
 
-| Component                   | Quantity | Price ($)  | Source          |
-| --------------------------- | -------- | ---------- | --------------- |
-| Cherry MX Blue Switch       | 1        | 2.00       | AliExpress      |
-| Cherry MX Red Switch        | 20       | 13.00      | AliExpress      |
-| S37735R Screen              | 1        | N/A        | Included in kit |
-| 1N4148 Diode                | 22       | N/A        | Included in kit |
-| Orpheus Pico                | 1        | N/A        | Included in kit |
-| PCM5100 DAC                 | 1        | N/A        | Included in kit |
-| EC11 Rotary Encoder         | 2        | N/A        | Included in kit |
-| M3 18 mm Screw              | 4        | 1.06       | BambuLab        |
-| M3 4 mm Screw               | 4        | 1.06       | BambuLab        |
-| M2 5 mm Screw               | 2        | 1.02       | BambuLab        |
-| Slide Potentiometer         | 1        | Included   | Adafruit        |
-| ADS ADC Module              | 1        | Included   | Adafruit        |
-| **Adafruit Parts Total**    | —        | **34.30**  | Adafruit        |
-| **JLCPCB (PCB + Assembly)** | —        | **52.46**  | JLCPCB          |
-| **BambuLab Shipping**       | —        | **6.00**   | BambuLab        |
-| **TOTAL COST (All Parts)**  | —        | **110.90** | —               |
 
 
 ## How It Works
