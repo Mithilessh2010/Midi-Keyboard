@@ -18,18 +18,25 @@ This project uses a Raspberry Pi Pico along with several input and output compon
 
 ## Bill of Materials (BOM)
 
-| Component | Designator(s) | Footprint | Quantity | Description |
-|----------|---------------|-----------|----------|-------------|
-| Mechanical Switches | SW1–SW39 | SW_Cherry_MX_1.00u_PCB | 19 | Cherry MX style push switches |
-| Diodes | D1–D27 | D_DO-35_SOD27_P7.62mm | 22 | 1N4148 signal diodes |
-| 8-Pin Header | J1 | PinSocket_1x08_P2.54mm | 1 | 8-pin connector |
-| Extra Switches | SW5, SW10 | SW_Cherry_MX_1.00u_PCB | 2 | Additional push switches |
-| ADC Chip | U1 | Adafruit_ADS1115 | 1 | ADS1015 analog-to-digital converter |
-| Rotary Encoders | SW25, SW26 | Alps EC11E | 2 | Rotary encoders with push switch |
-| Slide Potentiometer | RV1 | Slide_Pot_75mm | 1 | Adafruit slide potentiometer (4219) |
-| 4-Pin Header | J2 | PinSocket_1x04_P2.54mm | 1 | SD card connector |
-| Microcontroller | A1 | RaspberryPi_Pico | 1 | Raspberry Pi Pico microcontroller |
-| DAC | U2 | PCM5100 | 1 | PCM5100 I2S digital-to-analog converter |
+| Component                   | Quantity | Price ($)  | Source          |
+| --------------------------- | -------- | ---------- | --------------- |
+| Cherry MX Blue Switch       | 1        | 2.00       | AliExpress      |
+| Cherry MX Red Switch        | 20       | 13.00      | AliExpress      |
+| S37735R Screen              | 1        | N/A        | Included in kit |
+| 1N4148 Diode                | 22       | N/A        | Included in kit |
+| Orpheus Pico                | 1        | N/A        | Included in kit |
+| PCM5100 DAC                 | 1        | N/A        | Included in kit |
+| EC11 Rotary Encoder         | 2        | N/A        | Included in kit |
+| M3 18 mm Screw              | 4        | 1.06       | BambuLab        |
+| M3 4 mm Screw               | 4        | 1.06       | BambuLab        |
+| M2 5 mm Screw               | 2        | 1.02       | BambuLab        |
+| Slide Potentiometer         | 1        | Included   | Adafruit        |
+| ADS ADC Module              | 1        | Included   | Adafruit        |
+| **Adafruit Parts Total**    | —        | **34.30**  | Adafruit        |
+| **JLCPCB (PCB + Assembly)** | —        | **52.46**  | JLCPCB          |
+| **BambuLab Shipping**       | —        | **6.00**   | BambuLab        |
+| **TOTAL COST (All Parts)**  | —        | **110.90** | —               |
+
 
 ## How It Works
 - The Raspberry Pi Pico acts as the main controller.
