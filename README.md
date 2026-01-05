@@ -3,6 +3,10 @@
 ## Overview
 This project uses a Raspberry Pi Pico along with several input and output components to create a custom electronics system. The system includes switches, rotary encoders, a slide potentiometer, and supporting parts like diodes and connectors. The goal is to read user inputs and process them using the microcontroller.
 
+## FINAL CAD WITH ASSEMBLED PARTS
+<img width="427" height="260" alt="image" src="https://github.com/user-attachments/assets/45e3b2cf-7882-4cbe-8e11-bacbc240fd29" />
+
+
 ## RENDER
 <img width="945" height="626" alt="Render" src="https://github.com/user-attachments/assets/c992b6ff-e8fe-46c4-976b-63e58aa24077" />
 
